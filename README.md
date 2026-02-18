@@ -38,7 +38,7 @@ AI:   *ships it*
 ### 🧠 My Stack
 
 ![Claude Opus 4.6](https://img.shields.io/badge/-Claude_Opus_4.6-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![o4-mini](https://img.shields.io/badge/-o4--mini_(Codex)-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_3_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-orange?style=flat-square)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square)
@@ -50,7 +50,7 @@ AI:   *ships it*
 | Model | Role | Why |
 |-------|------|-----|
 | **Claude Opus 4.6** | 🧠 Brain | 設計・判断・オーケストレーション。考える力が圧倒的 |
-| **Codex CLI** | 🔨 Hands | 実装の速さと正確さ。コード書かせたら最強 |
+| **o4-mini** (Codex CLI) | 🔨 Hands | 実装の速さと正確さ。コード書かせたら最強 |
 | **Gemini 3 Pro** | 👁️ Eyes | 動画・画像分析。100万トークンのコンテキストが武器 |
 | **Gemini Flash** | ⚡ Speed | バッチ処理。$0.002/動画のコスパ王 |
 | **Claude Sonnet 4.6** | ⚖️ Balance | Opusの1/5コストで8割の性能。サブエージェント向き |
