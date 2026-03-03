@@ -26,14 +26,25 @@ AI:   *ships it*
 
 **0 lines of code written by hand. 100% AI-orchestrated.**
 
+Coding crew: **エニグマ (Enigma)** × **しろくま (Shirokuma)** 🐻‍❄️
+
 ### 🚀 Projects
 
 | Project | What it does | Built with |
 |---------|-------------|------------|
-| [**Katala**](https://github.com/Nicolas0315/Katala) | Information trust platform | AI × TypeScript |
-| [**SENTINEL-v2**](https://github.com/Nicolas0315/SENTINEL-v2) | AI monitoring system | AI × Python |
-| [**aituber**](https://github.com/Nicolas0315/aituber) | AI VTuber framework | AI × Vue |
-| **EIAI** *(private)* | Video ad analysis for agencies | AI × Everything |
+| [**Katala**](https://github.com/Nicolas0315/Katala) | Information trust platform | Python / TypeScript / Rust |
+| [**SENTINEL-v2**](https://github.com/Nicolas0315/SENTINEL-v2) | AI monitoring system | Python |
+| [**aituber**](https://github.com/Nicolas0315/aituber) | AI VTuber framework | Vue / TypeScript / Python |
+| **EIAI** *(private)* | Video ad analysis for agencies | Python / TypeScript |
+
+### 🧱 Built With (latest repos weighted)
+
+- **Python** (約54%)
+- **TypeScript** (約20%)
+- **Vue** (約16%)
+- **Rust** (約6%)
+
+> 最新の主要リポジトリ（Katala / katala-slm / pops-session / SENTINEL-v2 / aituber）の言語比重ベース。
 
 ### 🧠 My Stack
 
