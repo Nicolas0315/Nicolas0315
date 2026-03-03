@@ -9,6 +9,7 @@
 *Nicolas & Youta*
 
 ![Japan](https://img.shields.io/badge/Based_in-Japan-e6002d?style=flat-square&logo=japan&logoColor=white)
+![White Heart](https://img.shields.io/badge/-%F0%9F%A4%8D-f8fafc?style=flat-square)
 ![Mission](https://img.shields.io/badge/Mission-Connect%20Humanity%20with%20Data-0ea5e9?style=flat-square)
 
 [![X](https://img.shields.io/badge/@n__1co-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/n__1co)
@@ -30,7 +31,7 @@ AI:   *ships it*
 
 **0 lines of code written by hand. 100% AI-orchestrated.**
 
-Coding crew: **エニグマ (Enigma)** × **しろくま (Shirokuma)** 🐻‍❄️
+Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 ### 🚀 Projects
 
