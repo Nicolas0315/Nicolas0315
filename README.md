@@ -2,10 +2,14 @@
 
 # Nicolas Ogoshi 🇯🇵
 
-**Non-Engineer who ships products with AI — Tokyo**
+**Non-Engineer who ships products with AI — Japan**
 
-*「仮説で戦い、データで勝つ」*
-*I can't code. But my AI agents can.*
+*データですべての人類をつなぐ。*
+*人は一人では何者にもなれない。0と1の関係と同じように。*
+*Nicolas & Youta*
+
+![Japan](https://img.shields.io/badge/Based_in-Japan-e6002d?style=flat-square&logo=japan&logoColor=white)
+![Mission](https://img.shields.io/badge/Mission-Connect%20Humanity%20with%20Data-0ea5e9?style=flat-square)
 
 [![X](https://img.shields.io/badge/@n__1co-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/n__1co)
 
