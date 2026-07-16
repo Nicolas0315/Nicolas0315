@@ -4,9 +4,11 @@ import os
 import re
 import sys
 import urllib.request
+from pathlib import Path
 
 OWNER = "Nicolas0315"
-README = "/Users/nicolas/work/Nicolas0315-profile/README.md"
+REPO_ROOT = Path(__file__).resolve().parents[1]
+README = REPO_ROOT / "README.md"
 
 QUERY = {
     "query": """
@@ -72,16 +74,14 @@ def render_table(metrics: dict) -> str:
 def main() -> int:
     token = get_token()
     metrics = fetch_metrics(token)
-    with open(README, "r", encoding="utf-8") as fh:
-        readme = fh.read()
+    readme = README.read_text(encoding="utf-8")
     updated = re.sub(
         r"<!-- METRICS:START -->.*?<!-- METRICS:END -->",
         render_table(metrics),
         readme,
         flags=re.S,
     )
-    with open(README, "w", encoding="utf-8") as fh:
-        fh.write(updated)
+    README.write_text(updated, encoding="utf-8")
     print(json.dumps(metrics, ensure_ascii=False))
     return 0
 
