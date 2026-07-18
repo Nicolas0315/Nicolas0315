@@ -81,10 +81,10 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 | Metric | Value |
 |--------|-------|
-| Commits | 184 |
-| Pull Requests | 43 |
-| Issues | 114 |
-| Total Contributions | 372 |
+| Commits | 573 |
+| Pull Requests | 147 |
+| Issues | 184 |
+| Total Contributions | 5060 |
 
 <!-- METRICS:END -->
 
