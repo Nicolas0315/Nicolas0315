@@ -84,6 +84,20 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 <div align="center">
 
+<img height="215" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/stats-card.svg" />
+<img height="215" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/top-langs.svg" />
+
+<img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas0315&theme=tokyo-night&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
+</picture>
+
+<details>
+<summary>raw metrics (auto-updated daily)</summary>
+
 <!-- METRICS:START -->
 
 | Metric | Value |
@@ -95,13 +109,7 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 <!-- METRICS:END -->
 
-<img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas0315&theme=tokyo-night&hide_border=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
-</picture>
+</details>
 
 </div>
 
