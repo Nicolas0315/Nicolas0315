@@ -71,12 +71,14 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 | Model | Role | Why |
 |-------|------|-----|
-| **Claude Opus 4.8** | 🧠 Brain | 設計・判断・オーケストレーション。考える力が圧倒的 |
-| **GPT-5.5** | 🔨 Hands | Codex CLI の実装エンジン。並列サブエージェントの主力 |
-| **Gemini 3 Pro** | 👁️ Eyes | レビュー・長大コンテキスト比較・動画/画像分析 |
-| **Gemini Flash** | ⚡ Speed | バッチ処理のコスパ王 |
-| **Claude Sonnet** | ⚖️ Balance | Opus級の8割をずっと安く。サブエージェント向き |
-| **qwen3:8b (local)** | 🏠 Free | ローカル分類・整形。API費ゼロの日次自動化担当 |
+| **Claude Fable 5** | 🧠 Brain | Claude 5 世代の新フラッグシップ。設計・判断・オーケストレーションの指揮者 |
+| **GPT-5.6 Sol / Terra** | 🔨 Hands | Codex CLI の実装エンジン。日常は Terra、難所は Sol |
+| **Gemini 3.1 Pro** | 👁️ Eyes | レビュー・長大コンテキスト比較・マルチモーダル分析 |
+| **Claude Sonnet 5 / Haiku 4.5** | ⚖️ Subagents | 並列サブエージェントの実務層。コスパで数を出す |
+| **GLM 5.2 / Grok 4.5 / Kimi K2.7** | 🔄 Rotation | cc-switch でプロバイダー横断の比較検証 |
+| **gemma4 / qwen3 (local)** | 🏠 Free | RTX 4090 ローカル推論。分類・整形・日次バッチは API 費ゼロ |
+
+> 飾りではなく実測: この表はローカルの実使用ログ (ccusage) と各 CLI の実設定から集計したもの。
 
 ### 📊 Stats
 
