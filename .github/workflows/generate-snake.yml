@@ -1,4 +1,4 @@
-name: generate snake animation
+name: generate profile assets
 
 on:
   schedule:
@@ -13,6 +13,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+
+      - name: generate stats-card.svg and top-langs.svg
+        run: python3 scripts/generate_stats_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: dist
+
       - name: generate github-snake.svg
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
@@ -21,7 +29,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: push github-snake.svg to the output branch
+      - name: push generated assets to the output branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
