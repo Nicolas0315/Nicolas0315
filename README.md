@@ -102,10 +102,10 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 | Metric | Value |
 |--------|-------|
-| Commits | 588 |
-| Pull Requests | 147 |
-| Issues | 186 |
-| Total Contributions | 5214 |
+| Commits | 404 |
+| Pull Requests | 99 |
+| Issues | 108 |
+| Total Contributions | 5270 |
 
 <!-- METRICS:END -->
 
