@@ -45,20 +45,24 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 - 🪝 **Safety-valve hooks** — 全ノードに事前フックを常設。エージェントは提案し、ゲートが検証する
 - 📚 **Self-compiling knowledge base** — フリート横断の知識ベースを git で同期し、日次で自己コンパイル
 
-### 📅 17 Months of AI
+### 📅 4 Years with AI
 
-git log とカード明細の課金日から復元した、実際の時系列。
+Gmail の領収書・登録確認メールと git log から復元した実際の時系列。
 
 | When | What happened |
 |------|---------------|
-| 2025-03 | Claude と Gemini を使い始める。入口は ChatGPT ではなかった |
-| 2025-04 | Suno / Midjourney / ElevenLabs / Claude / Cursor を同じ月に一斉契約 |
+| 2022-06 | Midjourney beta invite。AI に触った最初 |
+| 2022-08 | Hugging Face / Stability.ai に登録 |
+| 2023-01 | OpenAI アカウント作成。3月に ChatGPT Plus 課金と GPT-4 API waitlist |
+| 2024-11 | Anthropic 課金開始 |
+| 2025-02 | Cursor Pro 契約。AI が「使うもの」から「開発の主戦力」に変わった転換点 |
+| 2025-03 | Anthropic API が毎週 spend threshold を超えるようになる |
 | 2025-05 | 最初のリポジトリ。作って捨てる単発ツールの時期 |
-| 2025-10 | 動画生成を GPU 従量課金で大量に回し、生成コストの現実を知る |
 | 2025-12 | 継続開発へ転換。関心がエージェント一色になる |
 | 2026-02 | Katala 着手。フリート運用基盤づくりが始まる |
 | 2026-06 | マルチエンジン運用へ。月 1,942 コミットで最大稼働 |
 
+> 消費者として2年8ヶ月、開発の主戦力として1年半。転換点は 2025-02-26 の Cursor Pro。
 > 生成AI (Midjourney / Suno / Kling / ElevenLabs) は順に解約し、コーディングエージェントに全振りした。
 > star 1,097 件を日付順に並べると、収集のピークが生産のピークより 1ヶ月先行している。
 
