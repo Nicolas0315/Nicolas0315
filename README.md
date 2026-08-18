@@ -13,6 +13,7 @@
 ![Mission](https://img.shields.io/badge/Mission-Connect%20Humanity%20with%20Data-0ea5e9?style=flat-square)
 
 [![X](https://img.shields.io/badge/@n__1co-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/n__1co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-hidemaru-ogoshi/)
 [![Website](https://img.shields.io/badge/katala.org-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://katala.org)
 
 </div>
@@ -38,11 +39,28 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 「AIにコードを書かせる」の一歩先、**AIエージェント群を運用する**ための個人インフラ。
 
-- 🖥️ **5-machine personal fleet** — Mac / Windows / WSL2 の全ノードが同一のエージェント文脈を git 同期で共有
-- 🎼 **Multi-engine orchestration** — Claude Code が指揮、Codex CLI が実装、Gemini CLI がレビュー。1タスクに複数エンジンを並列投入
+- 🖥️ **6-machine personal fleet** — Mac / Windows / WSL2 の全ノードが同一のエージェント文脈を git 同期で共有
+- 🎼 **Multi-engine orchestration** — Claude Code が指揮、Codex CLI が実装、Antigravity (agy) がレビュー。1タスクに複数エンジンを並列投入
 - 🤝 **Multi-agent consensus** — main への push・マージ・破壊的変更は、別エンジンによるセカンドオピニオンを通過しないと実行されない
 - 🪝 **Safety-valve hooks** — 全ノードに事前フックを常設。エージェントは提案し、ゲートが検証する
 - 📚 **Self-compiling knowledge base** — フリート横断の知識ベースを git で同期し、日次で自己コンパイル
+
+### 📅 17 Months of AI
+
+git log とカード明細の課金日から復元した、実際の時系列。
+
+| When | What happened |
+|------|---------------|
+| 2025-03 | Claude と Gemini を使い始める。入口は ChatGPT ではなかった |
+| 2025-04 | Suno / Midjourney / ElevenLabs / Claude / Cursor を同じ月に一斉契約 |
+| 2025-05 | 最初のリポジトリ。作って捨てる単発ツールの時期 |
+| 2025-10 | 動画生成を GPU 従量課金で大量に回し、生成コストの現実を知る |
+| 2025-12 | 継続開発へ転換。関心がエージェント一色になる |
+| 2026-02 | Katala 着手。フリート運用基盤づくりが始まる |
+| 2026-06 | マルチエンジン運用へ。月 1,942 コミットで最大稼働 |
+
+> 生成AI (Midjourney / Suno / Kling / ElevenLabs) は順に解約し、コーディングエージェントに全振りした。
+> star 1,097 件を日付順に並べると、収集のピークが生産のピークより 1ヶ月先行している。
 
 ### 🚀 Public Projects
 
@@ -54,6 +72,8 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 | [**usage-pulse**](https://github.com/Nicolas0315/usage-pulse) | Cross-platform AI tool usage monitor — tmux statusline + system tray for Mac/Win/Linux | Python |
 | [**baby-model**](https://github.com/Nicolas0315/baby-model) | Research framework for Baby AD/DA asymmetry — perception-first agents with intrinsic rewards | Python |
 | [**reinvent-the-wheel**](https://github.com/Nicolas0315/reinvent-the-wheel) | 車輪の再発明 — Myers diff reimplemented from the 1986 paper, packaged as a hand-rolled PEP 427 wheel | Python |
+| [**html-share-vault**](https://github.com/Nicolas0315/html-share-vault) | Password-protected HTML sharing with TTL-bound links — Cloudflare Pages Functions + Workers KV | TypeScript |
+| [**pokefollower-desktop**](https://github.com/Nicolas0315/pokefollower-desktop) | カーソルを追うポケモンのデスクトップ常駐マスコット | Electron |
 
 > ほかに動画広告分析・AI VTuber・スクレイピング基盤・フリート管理などが private で稼働中。
 
@@ -61,19 +81,19 @@ Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/-Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-orange?style=flat-square)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square)
 
 > The stack is not languages. It's AI agents.
 
-### 🏆 Favorite Models — as of 2026-07
+### 🏆 Favorite Models — as of 2026-08
 
 | Model | Role | Why |
 |-------|------|-----|
 | **Claude Fable 5** | 🧠 Brain | Claude 5 世代の新フラッグシップ。設計・判断・オーケストレーションの指揮者 |
 | **GPT-5.6 Sol / Terra** | 🔨 Hands | Codex CLI の実装エンジン。日常は Terra、難所は Sol |
-| **Gemini 3.1 Pro** | 👁️ Eyes | レビュー・長大コンテキスト比較・マルチモーダル分析 |
+| **Gemini 3.1 Pro** (agy) | 👁️ Eyes | Antigravity CLI 経由。レビュー・長大コンテキスト比較・マルチモーダル分析 |
 | **Claude Sonnet 5 / Haiku 4.5** | ⚖️ Subagents | 並列サブエージェントの実務層。コスパで数を出す |
 | **GLM 5.2 / Grok 4.5 / Kimi K2.7** | 🔄 Rotation | cc-switch でプロバイダー横断の比較検証 |
 | **gemma4 / qwen3 (local)** | 🏠 Free | RTX 4090 ローカル推論。分類・整形・日次バッチは API 費ゼロ |
