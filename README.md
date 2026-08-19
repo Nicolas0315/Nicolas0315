@@ -6,11 +6,6 @@
 
 *データですべての人類をつなぐ。*
 *人は一人では何者にもなれない。0と1の関係と同じように。*
-*Nicolas & Youta*
-
-![Japan](https://img.shields.io/badge/Based_in-Japan-e6002d?style=flat-square&logo=japan&logoColor=white)
-![White Heart](https://img.shields.io/badge/-%F0%9F%A4%8D-f8fafc?style=flat-square)
-![Mission](https://img.shields.io/badge/Mission-Connect%20Humanity%20with%20Data-0ea5e9?style=flat-square)
 
 [![X](https://img.shields.io/badge/@n__1co-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/n__1co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-hidemaru-ogoshi/)
@@ -20,104 +15,34 @@
 
 ---
 
-### 🤖 How I Build
+### AI Dev OS
 
-```
-Me:   "これ作って"
-AI:   *builds it*
-Me:   "ここ直して"
-AI:   *fixes it*
-Me:   "マージして"
-AI:   *ships it*
-```
+Mac / Windows / WSL2 の 6 ノードで AI エージェント群を運用する個人インフラ。
+Claude Code が指揮し、Codex CLI が実装し、Antigravity がレビューする。破壊的な変更は別エンジンの合議を通さないと走らない。
 
-**0 lines of code written by hand. 100% AI-orchestrated.**
+**手書きのコードは 0 行。**
 
-Coding crew: **エニグマ (Enigma) 🤖** × **しろくま (Shirokuma) 🧠**
+### Projects
 
-### 🛠️ My AI Dev OS
-
-「AIにコードを書かせる」の一歩先、**AIエージェント群を運用する**ための個人インフラ。
-
-- 🖥️ **6-machine personal fleet** — Mac / Windows / WSL2 の全ノードが同一のエージェント文脈を git 同期で共有
-- 🎼 **Multi-engine orchestration** — Claude Code が指揮、Codex CLI が実装、Antigravity (agy) がレビュー。1タスクに複数エンジンを並列投入
-- 🤝 **Multi-agent consensus** — main への push・マージ・破壊的変更は、別エンジンによるセカンドオピニオンを通過しないと実行されない
-- 🪝 **Safety-valve hooks** — 全ノードに事前フックを常設。エージェントは提案し、ゲートが検証する
-- 📚 **Self-compiling knowledge base** — フリート横断の知識ベースを git で同期し、日次で自己コンパイル
-
-### 📅 4 Years with AI
-
-Gmail の領収書・登録確認メールと git log から復元した実際の時系列。
-
-| When | What happened |
-|------|---------------|
-| 2022-06 | Midjourney beta invite。AI に触った最初 |
-| 2022-08 | Hugging Face / Stability.ai に登録 |
-| 2023-01 | OpenAI アカウント作成。3月に ChatGPT Plus 課金と GPT-4 API waitlist |
-| 2024-11 | Anthropic 課金開始 |
-| 2025-02 | Cursor Pro 契約。AI が「使うもの」から「開発の主戦力」に変わった転換点 |
-| 2025-03 | Anthropic API が毎週 spend threshold を超えるようになる |
-| 2025-05 | 最初のリポジトリ。作って捨てる単発ツールの時期 |
-| 2025-12 | 継続開発へ転換。関心がエージェント一色になる |
-| 2026-02 | Katala 着手。フリート運用基盤づくりが始まる |
-| 2026-06 | マルチエンジン運用へ。月 1,942 コミットで最大稼働 |
-
-> 消費者として2年8ヶ月、開発の主戦力として1年半。転換点は 2025-02-26 の Cursor Pro。
-> 生成AI (Midjourney / Suno / Kling / ElevenLabs) は順に解約し、コーディングエージェントに全振りした。
-> star 1,097 件を日付順に並べると、収集のピークが生産のピークより 1ヶ月先行している。
-
-### 🚀 Public Projects
-
-| Project | What it does | Built with |
-|---------|-------------|------------|
-| [**Katala**](https://github.com/Nicolas0315/Katala) | AI-mediated catalyst for human connection & profiling | Python |
-| [**katala-slm**](https://github.com/Nicolas0315/katala-slm) | Medical-domain specialized small language model with KS-series verification | Rust |
-| [**katala-web-research**](https://github.com/Nicolas0315/katala-web-research) | Local-first research CLI — multi-provider search, clean URL reading, SQLite FTS5 evidence archives | Python |
-| [**usage-pulse**](https://github.com/Nicolas0315/usage-pulse) | Cross-platform AI tool usage monitor — tmux statusline + system tray for Mac/Win/Linux | Python |
-| [**baby-model**](https://github.com/Nicolas0315/baby-model) | Research framework for Baby AD/DA asymmetry — perception-first agents with intrinsic rewards | Python |
-| [**reinvent-the-wheel**](https://github.com/Nicolas0315/reinvent-the-wheel) | 車輪の再発明 — Myers diff reimplemented from the 1986 paper, packaged as a hand-rolled PEP 427 wheel | Python |
-| [**html-share-vault**](https://github.com/Nicolas0315/html-share-vault) | Password-protected HTML sharing with TTL-bound links — Cloudflare Pages Functions + Workers KV | TypeScript |
-| [**pokefollower-desktop**](https://github.com/Nicolas0315/pokefollower-desktop) | カーソルを追うポケモンのデスクトップ常駐マスコット | Electron |
+| Project | What it does |
+|---------|--------------|
+| [**Katala**](https://github.com/Nicolas0315/Katala) | AI-mediated catalyst for human connection & profiling |
+| [**katala-slm**](https://github.com/Nicolas0315/katala-slm) | Medical-domain specialized small language model with KS-series verification |
+| [**katala-web-research**](https://github.com/Nicolas0315/katala-web-research) | Local-first research CLI — multi-provider search, SQLite FTS5 evidence archives |
+| [**usage-pulse**](https://github.com/Nicolas0315/usage-pulse) | Cross-platform AI tool usage monitor — tmux statusline + system tray |
+| [**baby-model**](https://github.com/Nicolas0315/baby-model) | Research framework for Baby AD/DA asymmetry — perception-first agents |
+| [**reinvent-the-wheel**](https://github.com/Nicolas0315/reinvent-the-wheel) | Myers diff reimplemented from the 1986 paper, as a hand-rolled PEP 427 wheel |
+| [**html-share-vault**](https://github.com/Nicolas0315/html-share-vault) | Password-protected HTML sharing with TTL-bound links |
+| [**pokefollower-desktop**](https://github.com/Nicolas0315/pokefollower-desktop) | カーソルを追うポケモンのデスクトップ常駐マスコット |
 
 > ほかに動画広告分析・AI VTuber・スクレイピング基盤・フリート管理などが private で稼働中。
 
-### 🧠 My Stack
-
-![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/-Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-orange?style=flat-square)
-![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square)
-
-> The stack is not languages. It's AI agents.
-
-### 🏆 Favorite Models — as of 2026-08
-
-| Model | Role | Why |
-|-------|------|-----|
-| **Claude Fable 5** | 🧠 Brain | Claude 5 世代の新フラッグシップ。設計・判断・オーケストレーションの指揮者 |
-| **GPT-5.6 Sol / Terra** | 🔨 Hands | Codex CLI の実装エンジン。日常は Terra、難所は Sol |
-| **Gemini 3.1 Pro** (agy) | 👁️ Eyes | Antigravity CLI 経由。レビュー・長大コンテキスト比較・マルチモーダル分析 |
-| **Claude Sonnet 5 / Haiku 4.5** | ⚖️ Subagents | 並列サブエージェントの実務層。コスパで数を出す |
-| **GLM 5.2 / Grok 4.5 / Kimi K2.7** | 🔄 Rotation | cc-switch でプロバイダー横断の比較検証 |
-| **gemma4 / qwen3 (local)** | 🏠 Free | RTX 4090 ローカル推論。分類・整形・日次バッチは API 費ゼロ |
-
-> 飾りではなく実測: この表はローカルの実使用ログ (ccusage) と各 CLI の実設定から集計したもの。
-
-### 📊 Stats
+### Stats
 
 <div align="center">
 
 <img height="215" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/stats-card.svg" />
 <img height="215" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/top-langs.svg" />
-
-<img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas0315&theme=tokyo-night&hide_border=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas0315/Nicolas0315/output/github-snake.svg" />
-</picture>
 
 <details>
 <summary>raw metrics (auto-updated daily)</summary>
