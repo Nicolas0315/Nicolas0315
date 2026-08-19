@@ -7,6 +7,8 @@
 *データですべての人類をつなぐ。*
 *人は一人では何者にもなれない。0と1の関係と同じように。*
 
+<sub>*Connecting all of humanity through data. No one becomes anyone alone — just like 0 and 1.*</sub>
+
 [![X](https://img.shields.io/badge/@n__1co-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/n__1co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-hidemaru-ogoshi/)
 [![Website](https://img.shields.io/badge/katala.org-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://katala.org)
@@ -17,10 +19,26 @@
 
 ### AI Dev OS
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+A personal infrastructure for operating a fleet of AI agents across 6 nodes (Mac / Windows / WSL2).
+Claude Code directs, Codex CLI implements, Antigravity reviews. Destructive changes don't run until a different engine signs off.
+
+**0 lines of code written by hand.**
+
+</td>
+<td width="50%" valign="top">
+
 Mac / Windows / WSL2 の 6 ノードで AI エージェント群を運用する個人インフラ。
 Claude Code が指揮し、Codex CLI が実装し、Antigravity がレビューする。破壊的な変更は別エンジンの合議を通さないと走らない。
 
 **手書きのコードは 0 行。**
+
+</td>
+</tr>
+</table>
 
 ### Projects
 
@@ -33,9 +51,10 @@ Claude Code が指揮し、Codex CLI が実装し、Antigravity がレビュー�
 | [**baby-model**](https://github.com/Nicolas0315/baby-model) | Research framework for Baby AD/DA asymmetry — perception-first agents |
 | [**reinvent-the-wheel**](https://github.com/Nicolas0315/reinvent-the-wheel) | Myers diff reimplemented from the 1986 paper, as a hand-rolled PEP 427 wheel |
 | [**html-share-vault**](https://github.com/Nicolas0315/html-share-vault) | Password-protected HTML sharing with TTL-bound links |
-| [**pokefollower-desktop**](https://github.com/Nicolas0315/pokefollower-desktop) | カーソルを追うポケモンのデスクトップ常駐マスコット |
+| [**pokefollower-desktop**](https://github.com/Nicolas0315/pokefollower-desktop) | A desktop Pokémon mascot that follows your cursor |
 
-> ほかに動画広告分析・AI VTuber・スクレイピング基盤・フリート管理などが private で稼働中。
+> Video ad analytics, AI VTuber, scraping infrastructure and fleet management are also running privately.
+> <sub>ほかに動画広告分析・AI VTuber・スクレイピング基盤・フリート管理などが private で稼働中。</sub>
 
 ### Stats
 
