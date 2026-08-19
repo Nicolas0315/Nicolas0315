@@ -17,29 +17,6 @@
 
 ---
 
-### AI Dev OS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-A personal infrastructure for operating a fleet of AI agents across 6 nodes (Mac / Windows / WSL2).
-Claude Code directs, Codex CLI implements, Antigravity reviews. Destructive changes don't run until a different engine signs off.
-
-**0 lines of code written by hand.**
-
-</td>
-<td width="50%" valign="top">
-
-Mac / Windows / WSL2 の 6 ノードで AI エージェント群を運用する個人インフラ。
-Claude Code が指揮し、Codex CLI が実装し、Antigravity がレビューする。破壊的な変更は別エンジンの合議を通さないと走らない。
-
-**手書きのコードは 0 行。**
-
-</td>
-</tr>
-</table>
-
 ### Projects
 
 | Project | What it does |
