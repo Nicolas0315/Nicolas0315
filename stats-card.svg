@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="215" viewBox="0 0 400 215" fill="none" role="img">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,sans-serif}</style>
+<rect width="400" height="215" rx="4.5" fill="#1a1b27"/>
+<text x="25" y="33" font-size="16" font-weight="600" fill="#70a5fd">GitHub Activity — past year</text>
+<circle cx="30" cy="59" r="3" fill="#bf91f3"/>
+<text x="44" y="63" font-size="13" fill="#38bdae">Commits</text>
+<text x="375" y="63" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">596</text>
+<circle cx="30" cy="85" r="3" fill="#bf91f3"/>
+<text x="44" y="89" font-size="13" fill="#38bdae">Pull Requests</text>
+<text x="375" y="89" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">156</text>
+<circle cx="30" cy="111" r="3" fill="#bf91f3"/>
+<text x="44" y="115" font-size="13" fill="#38bdae">Issues</text>
+<text x="375" y="115" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">150</text>
+<circle cx="30" cy="137" r="3" fill="#bf91f3"/>
+<text x="44" y="141" font-size="13" fill="#38bdae">Contributions</text>
+<text x="375" y="141" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">8151</text>
+<circle cx="30" cy="163" r="3" fill="#bf91f3"/>
+<text x="44" y="167" font-size="13" fill="#38bdae">Current Streak</text>
+<text x="375" y="167" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">55 days</text>
+<circle cx="30" cy="189" r="3" fill="#bf91f3"/>
+<text x="44" y="193" font-size="13" fill="#38bdae">Longest Streak</text>
+<text x="375" y="193" font-size="13" font-weight="600" text-anchor="end" fill="#70a5fd">55 days</text>
+</svg>
